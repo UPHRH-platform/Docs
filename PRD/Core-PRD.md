@@ -132,7 +132,7 @@ Functionalities for the current roadmap of the platform have been identified, bu
 2. **Centralised Admissions** for prospective candidates looking to enrol in medical institutes for AHP courses (diploma / degree programs) to reduce the burden of institute-specific application process and remove discretion from the admissions process. 
 3. **Competency based Assessments **of medical students and experienced professionals to enable tracking of role and function wise core competencies required by professionals to perform at their workplace
 4. **Verifiable Resume** to enable ease of access and verification of a professional’s education and work history when applying for jobs in hospitals and health centres
-5. **Aspirational Profession **module encompasses two key functionalities - (1) a job discovery and tracking platform to enable institute graduates to search for and apply for jobs, and (2) a learning management system (LMS) to enable access to online skilling courses to bridge the competency gaps identified as part of the competency based assessments
+5. **Aspirational Profession**module encompasses two key functionalities - (1) a job discovery and tracking platform to enable institute graduates to search for and apply for jobs, and (2) a learning management system (LMS) to enable access to online skilling courses to bridge the competency gaps identified as part of the competency based assessments
 
 
 ## Platform Architecture
